@@ -1,0 +1,8 @@
+{
+  "name": "ionpwa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "f514676c"
+}
